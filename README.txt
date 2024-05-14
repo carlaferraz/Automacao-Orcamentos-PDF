@@ -6,8 +6,9 @@ O PDF Generator da BTK Solutions é uma ferramenta projetada para automatizar a 
 ## Como usar
 - Verifique todas as dependências necessárias
 - Certifique-se de que a planilha do Excel a ser utilizada está na mesma pasta do executável
-- É importante, quando criar novas planilhas, seguir exatamente a mesma ordem das colunas escritas na base de exemplo
-- Ao abrir o
+- Estou vendo como faz para criar executáveis com imagens, então por enquanto, o codigo funciona apenas no terminal
+- proposta_btk.py : é o backend, a criação toda do orçamento automatico em pdf
+- btk_executavel.py : frontend, clique ali para rodar, selecione o arquivo excel, onde quer salvar, clique em gerar e então digite como quer salvar o nome do arquivo
 
 ## Requisitos
 - Python 3.8+
